@@ -4,11 +4,11 @@
 ! Homepage: https://github.com/temak1238/blocklist
 ! Last modified: 2023-01-16
 !
-@@mobile.pipe.aria.microsoft.com^
-@@store-images.s-microsoft.com^
-@@xboxlive.com^
-@@minecraftprod.rtep.msgamestudios.com^
-@@xboxexperiencesprod.experimentation.xboxlive.com^
-@@xflight.xboxlive.com^
-@@central.familie-stiehl.de^
-@@s.youtube.com^
+@@||obile.pipe.aria.microsoft.com^
+@@||store-images.s-microsoft.com^
+@@||xboxlive.com^
+@@||minecraftprod.rtep.msgamestudios.com^
+@@||xboxexperiencesprod.experimentation.xboxlive.com^
+@@||xflight.xboxlive.com^
+@@||central.familie-stiehl.de^
+@@||s.youtube.com^
